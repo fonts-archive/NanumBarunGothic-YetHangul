@@ -1,6 +1,6 @@
 # Nanum Barun Gothic YetHangul
 
-[Visit Naver](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.zip)
+[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.zip)
 
 &nbsp;
 
