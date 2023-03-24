@@ -2,5 +2,7 @@
     font-family: 'Nanum Barun Gothic YetHangul';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumBarunGothic-YetHangul/main/NanumBarunGothic-YetHangul.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumBarunGothic-YetHangul/main/NanumBarunGothic-YetHangul.ttf') format('truetype');
 }
