@@ -15,7 +15,7 @@ font-family: 'Nanum Barun Gothic YetHangul';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.css'/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.css"/>
 ```
 
 &nbsp;
