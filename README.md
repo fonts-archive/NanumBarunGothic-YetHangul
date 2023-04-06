@@ -36,7 +36,9 @@ font-face
     font-weight: 400;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBarunGothic-YetHangul/NanumBarunGothic-YetHangul.ttf') format('truetype');
 }
 ```
